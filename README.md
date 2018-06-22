@@ -33,7 +33,11 @@ br_1.tif
 
 ### CellCount
 
-Command Line:
+For single image processing:
+
+You can just drag the image "_0" to CellCount.
+
+In addition, you can use the command line:
 ~~~
 # single image processing.
 CellCount info_0.ext
@@ -48,7 +52,11 @@ You can put the images in the folder "img" then run CellCount.
 
 *The images to merge should have different main-channel such as R, G or B.
 
-Command Line:
+For single image processing:
+
+You can just drag the image "_0" to CellMerge.
+
+In addition, you can use the command line:
 ~~~
 # single image processing.
 CellMerge info_0.ext
