@@ -92,8 +92,8 @@ The image "_r" is the visual result of CellCount.
 v0.5a - A new beginning
 
 ## Overview
-![Overview of CellCount](https://raw.githubusercontent.com/0CBH0/CellTools/blob/master/samples/overviewr.png)
-![Overview of CellMerge](https://raw.githubusercontent.com/0CBH0/CellTools/blob/master/samples/overviewm.png)
+![Overview of CellCount](https://raw.githubusercontent.com/0CBH0/CellTools/master/samples/overviewr.png)
+![Overview of CellMerge](https://raw.githubusercontent.com/0CBH0/CellTools/master/samples/overviewm.png)
 
 ## Copyright
 
