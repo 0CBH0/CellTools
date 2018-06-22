@@ -21,8 +21,10 @@ info_id.ext
 - info: the information of the image.
 - id: the sequence from 0 to 2.
 
-  *the image “_0” should be nuclear dyeing like DAPI.
-- ext: the formats which be supported by openCV such as png, jpg, tif, etc.
+  *The image “_0” should be nuclear dyeing like DAPI.
+- ext: the extension of the image.
+
+  *Be sure that the format of the image is supported by openCV such as png, jpg, tif, etc.
 ~~~
 # examples
 br_0.tif
