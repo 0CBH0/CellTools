@@ -93,12 +93,16 @@ The image "_r" is the visual result of CellCount.
 - Type: the magnification of the image.
 - CDs: the number of the nuclear areas.
 - Cells: the number of the nuclei.
+- M1CDs: the number of the merged areas about the image "_1".
+- M1Cells: the number of the merged cells about the image "_1".
+- M2CDs: the number of the merged areas about the image "_2".
+- M2Cells: the number of the merged cells about the image "_2".
 - MCDs: the number of the merged areas.
 - MCells: the number of the merged cells.
 - Info: the mean area of the nuclei.
 
 ## History
-
+v0.6a - Add 3 merged count
 v0.5a - A new beginning
 
 ## Overview

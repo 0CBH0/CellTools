@@ -19,6 +19,10 @@ struct CountResult
 	{
 		nCD = 0;
 		nCell = 0;
+		n1CD = 0;
+		n1Cell = 0;
+		n2CD = 0;
+		n2Cell = 0;
 		nMCD = 0;
 		nMCell = 0;
 		type = 0;
@@ -26,8 +30,14 @@ struct CountResult
 	}
 	u32 nCD;
 	u32 nCell;
+	u32 n1CD;
+	u32 n1Cell;
+	u32 n2CD;
+	u32 n2Cell;
 	u32 nMCD;
 	u32 nMCell;
 	u32 type;
 	std::string test;
 };
+
+FILE *imgInfo;
