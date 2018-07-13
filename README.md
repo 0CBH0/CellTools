@@ -103,6 +103,7 @@ The image "_r" is the visual result of CellCount.
 
 ## History
 v0.6a - Add 3 merged count
+
 v0.5a - A new beginning
 
 ## Overview
