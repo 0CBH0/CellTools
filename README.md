@@ -14,7 +14,7 @@ openCV with its related libraries
 
 ### Rename images
 
-First you should rename your images by the above rule:
+First you should rename your images by the following rule:
 ~~~
 info_id.ext
 ~~~
